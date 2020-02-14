@@ -1,0 +1,16 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "Personal expense tracker with charts and monthly reports, built with Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Alvvvvays",
+  "license": "MIT"
+}
