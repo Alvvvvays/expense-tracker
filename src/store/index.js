@@ -4,3 +4,4 @@
 # Add: input validation
 // v1.31 - minor update
 # Fix: handle None values properly
+// Refactor: cleaner implementation
