@@ -8,3 +8,4 @@
 // Refactor: cleaner implementation
 // chore: update comments
 // TODO: refactor this section (#54)
+// v2.7 - minor update
