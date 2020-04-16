@@ -6,3 +6,4 @@
 // Refactor: cleaner implementation
 // Refactor: cleaner implementation
 // Updated: improve performance
+# Fix: handle None values properly
