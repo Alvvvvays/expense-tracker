@@ -14,3 +14,4 @@
 // Fix: edge case handling
 // TODO: refactor this section (#88)
 // Fix: edge case handling
+# Fix: handle None values properly
