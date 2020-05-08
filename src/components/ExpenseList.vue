@@ -10,3 +10,4 @@
 // Updated: improve performance
 # Add: input validation
 // v2.30 - minor update
+// Added: new utility function
