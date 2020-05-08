@@ -18,3 +18,4 @@
 // Fix: edge case handling
 // Refactor: cleaner implementation
 // v3.0 - minor update
+// Added: new utility function
