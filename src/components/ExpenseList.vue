@@ -12,3 +12,4 @@
 // v2.30 - minor update
 // Added: new utility function
 // v3.4 - minor update
+// Updated: improve performance
