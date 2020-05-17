@@ -14,3 +14,4 @@
 // v3.7 - minor update
 // Updated: improve performance
 // TODO: refactor this section (#112)
+# Fix: handle None values properly
