@@ -7,3 +7,4 @@
 // Added: new utility function
 // v3.20 - minor update
 # Updated logic for better readability
+# Add: input validation
