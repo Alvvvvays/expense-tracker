@@ -17,3 +17,4 @@
 // TODO: refactor this section (#125)
 # Add: input validation
 // chore: update comments
+// v3.37 - minor update
