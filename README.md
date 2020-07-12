@@ -40,3 +40,4 @@ MIT
 // TODO: refactor this section (#183)
 // TODO: refactor this section (#197)
 // chore: update comments
+// Fix: edge case handling
