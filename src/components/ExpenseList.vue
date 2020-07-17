@@ -34,3 +34,4 @@
 // Fix: edge case handling
 // Fix: edge case handling
 // v5.25 - minor update
+// Added: new utility function
