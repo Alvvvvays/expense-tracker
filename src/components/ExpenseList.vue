@@ -36,3 +36,4 @@
 // v5.25 - minor update
 // Added: new utility function
 // Updated: improve performance
+// v5.44 - minor update
