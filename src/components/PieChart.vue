@@ -19,3 +19,4 @@
 // chore: update comments
 // Refactor: cleaner implementation
 // v6.31 - minor update
+// Updated: improve performance
