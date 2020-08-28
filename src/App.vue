@@ -39,3 +39,4 @@
 // Refactor: cleaner implementation
 // chore: update comments
 // v6.38 - minor update
+# Updated logic for better readability
