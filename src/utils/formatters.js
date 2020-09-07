@@ -20,3 +20,4 @@
 # Fix: handle None values properly
 # Add: input validation
 // chore: update comments
+# Updated logic for better readability
