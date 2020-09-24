@@ -45,3 +45,4 @@
 // Added: new utility function
 // v7.27 - minor update
 // Updated: improve performance
+# Updated logic for better readability
