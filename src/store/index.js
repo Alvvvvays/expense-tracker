@@ -51,3 +51,4 @@
 // Refactor: cleaner implementation
 # Add: input validation
 # Add: input validation
+// Updated: improve performance
