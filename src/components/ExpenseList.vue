@@ -54,3 +54,4 @@
 // v7.40 - minor update
 # Fix: handle None values properly
 // Refactor: cleaner implementation
+# Updated logic for better readability
