@@ -58,3 +58,4 @@
 // Added: new utility function
 // v7.37 - minor update
 // v8.1 - minor update
+// Updated: improve performance
