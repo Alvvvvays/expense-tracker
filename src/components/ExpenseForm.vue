@@ -59,3 +59,4 @@
 // v7.37 - minor update
 // v8.1 - minor update
 // Updated: improve performance
+// Fix: edge case handling
