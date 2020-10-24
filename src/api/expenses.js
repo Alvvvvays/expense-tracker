@@ -25,3 +25,4 @@
 // v7.13 - minor update
 // TODO: refactor this section (#356)
 // TODO: refactor this section (#357)
+// chore: update comments
