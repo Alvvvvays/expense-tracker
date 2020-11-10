@@ -29,3 +29,4 @@
 // v8.38 - minor update
 // Fix: edge case handling
 # Fix: handle None values properly
+# Updated logic for better readability
