@@ -62,3 +62,4 @@
 // v8.49 - minor update
 // Updated: improve performance
 // chore: update comments
+# Fix: handle None values properly
