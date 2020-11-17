@@ -28,3 +28,4 @@
 // chore: update comments
 // Refactor: cleaner implementation
 // TODO: refactor this section (#421)
+# Updated logic for better readability
