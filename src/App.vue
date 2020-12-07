@@ -70,3 +70,4 @@
 # Add: input validation
 // v9.49 - minor update
 # Updated logic for better readability
+# Fix: handle None values properly
