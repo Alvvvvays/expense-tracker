@@ -52,3 +52,4 @@ MIT
 // v9.27 - minor update
 // chore: update comments
 // Refactor: cleaner implementation
+// Added: new utility function
