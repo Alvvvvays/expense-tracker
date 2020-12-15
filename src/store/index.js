@@ -70,3 +70,4 @@
 // Updated: improve performance
 // Refactor: cleaner implementation
 // chore: update comments
+# Fix: handle None values properly
