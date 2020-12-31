@@ -77,3 +77,4 @@
 // v10.29 - minor update
 # Fix: handle None values properly
 // TODO: refactor this section (#494)
+# Add: input validation
