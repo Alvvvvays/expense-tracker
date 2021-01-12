@@ -81,3 +81,4 @@
 // v11.6 - minor update
 // Added: new utility function
 // TODO: refactor this section (#523)
+// chore: update comments
