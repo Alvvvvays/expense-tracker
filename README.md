@@ -64,3 +64,4 @@ MIT
 // Added: new utility function
 // chore: update comments
 # Updated logic for better readability
+# Add: input validation
