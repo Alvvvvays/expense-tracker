@@ -63,3 +63,4 @@ MIT
 # Fix: handle None values properly
 // Added: new utility function
 // chore: update comments
+# Updated logic for better readability
