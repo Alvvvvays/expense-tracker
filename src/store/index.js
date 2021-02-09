@@ -90,3 +90,4 @@
 // v12.20 - minor update
 // Refactor: cleaner implementation
 # Add: input validation
+// Added: new utility function
