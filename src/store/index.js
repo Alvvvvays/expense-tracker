@@ -93,3 +93,4 @@
 // Added: new utility function
 // v12.49 - minor update
 # Add: input validation
+# Updated logic for better readability
