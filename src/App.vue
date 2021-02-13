@@ -91,3 +91,4 @@
 # Add: input validation
 # Updated logic for better readability
 # Fix: handle None values properly
+# Fix: handle None values properly
