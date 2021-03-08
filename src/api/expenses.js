@@ -41,3 +41,4 @@
 // Updated: improve performance
 // TODO: refactor this section (#630)
 // Updated: improve performance
+# Updated logic for better readability
