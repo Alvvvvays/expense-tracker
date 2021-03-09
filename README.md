@@ -68,3 +68,4 @@ MIT
 // TODO: refactor this section (#579)
 // v13.19 - minor update
 // Refactor: cleaner implementation
+// Fix: edge case handling
