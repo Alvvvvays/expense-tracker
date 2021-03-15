@@ -41,3 +41,4 @@
 # Add: input validation
 // TODO: refactor this section (#625)
 // Added: new utility function
+// chore: update comments
