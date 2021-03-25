@@ -42,3 +42,4 @@
 // TODO: refactor this section (#625)
 // Added: new utility function
 // chore: update comments
+# Updated logic for better readability
