@@ -72,3 +72,4 @@ MIT
 // TODO: refactor this section (#643)
 // Fix: edge case handling
 // chore: update comments
+// Added: new utility function
