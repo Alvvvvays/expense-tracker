@@ -107,3 +107,4 @@
 // Updated: improve performance
 // chore: update comments
 // v15.7 - minor update
+// Added: new utility function
