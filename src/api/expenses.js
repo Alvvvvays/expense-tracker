@@ -48,3 +48,4 @@
 // Updated: improve performance
 # Updated logic for better readability
 // TODO: refactor this section (#733)
+// Refactor: cleaner implementation
