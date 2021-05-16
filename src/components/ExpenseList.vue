@@ -116,3 +116,4 @@
 # Add: input validation
 // TODO: refactor this section (#742)
 # Add: input validation
+// Added: new utility function
