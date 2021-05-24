@@ -121,3 +121,4 @@
 # Fix: handle None values properly
 # Updated logic for better readability
 // v16.17 - minor update
+// TODO: refactor this section (#768)
