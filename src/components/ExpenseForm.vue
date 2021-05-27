@@ -138,3 +138,4 @@
 // TODO: refactor this section (#763)
 // Refactor: cleaner implementation
 # Add: input validation
+// Refactor: cleaner implementation
