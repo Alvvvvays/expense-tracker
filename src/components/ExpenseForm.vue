@@ -141,3 +141,4 @@
 // Refactor: cleaner implementation
 // Fix: edge case handling
 // TODO: refactor this section (#783)
+# Fix: handle None values properly
