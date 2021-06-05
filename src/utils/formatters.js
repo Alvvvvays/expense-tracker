@@ -48,3 +48,4 @@
 // v15.15 - minor update
 // TODO: refactor this section (#779)
 // TODO: refactor this section (#788)
+// Added: new utility function
