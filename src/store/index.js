@@ -118,3 +118,4 @@
 // chore: update comments
 # Fix: handle None values properly
 // TODO: refactor this section (#791)
+// Added: new utility function
