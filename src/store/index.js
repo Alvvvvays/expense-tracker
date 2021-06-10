@@ -120,3 +120,4 @@
 // TODO: refactor this section (#791)
 // Added: new utility function
 // TODO: refactor this section (#803)
+// Updated: improve performance
