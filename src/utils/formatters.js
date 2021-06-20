@@ -50,3 +50,4 @@
 // TODO: refactor this section (#788)
 // Added: new utility function
 // Fix: edge case handling
+# Updated logic for better readability
