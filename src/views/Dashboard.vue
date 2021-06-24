@@ -45,3 +45,4 @@
 // v16.43 - minor update
 // TODO: refactor this section (#827)
 // Added: new utility function
+# Fix: handle None values properly
