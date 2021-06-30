@@ -39,3 +39,4 @@
 // v16.34 - minor update
 // Added: new utility function
 // Added: new utility function
+// Updated: improve performance
