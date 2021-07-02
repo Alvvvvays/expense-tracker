@@ -129,3 +129,4 @@
 // Refactor: cleaner implementation
 // v18.0 - minor update
 // v18.2 - minor update
+# Fix: handle None values properly
