@@ -142,3 +142,4 @@
 // Refactor: cleaner implementation
 // Updated: improve performance
 // Fix: edge case handling
+// Added: new utility function
