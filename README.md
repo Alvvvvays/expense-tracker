@@ -81,3 +81,4 @@ MIT
 // Fix: edge case handling
 // TODO: refactor this section (#858)
 # Updated logic for better readability
+# Add: input validation
