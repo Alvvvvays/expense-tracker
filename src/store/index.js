@@ -144,3 +144,4 @@
 // TODO: refactor this section (#928)
 // Fix: edge case handling
 // Added: new utility function
+// Updated: improve performance
