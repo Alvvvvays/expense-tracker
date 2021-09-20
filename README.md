@@ -87,3 +87,4 @@ MIT
 // v19.32 - minor update
 // Updated: improve performance
 # Add: input validation
+// Added: new utility function
