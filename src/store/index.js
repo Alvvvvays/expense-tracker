@@ -155,3 +155,4 @@
 # Add: input validation
 # Updated logic for better readability
 # Updated logic for better readability
+// Added: new utility function
