@@ -66,3 +66,4 @@
 // v21.23 - minor update
 # Fix: handle None values properly
 // chore: update comments
+// Added: new utility function
