@@ -50,3 +50,4 @@
 // Fix: edge case handling
 # Updated logic for better readability
 // TODO: refactor this section (#1021)
+# Fix: handle None values properly
