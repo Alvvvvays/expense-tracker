@@ -160,3 +160,4 @@
 # Updated logic for better readability
 # Fix: handle None values properly
 // v22.18 - minor update
+# Add: input validation
