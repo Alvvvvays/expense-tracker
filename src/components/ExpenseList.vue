@@ -188,3 +188,4 @@
 // Refactor: cleaner implementation
 // TODO: refactor this section (#1135)
 # Updated logic for better readability
+// Added: new utility function
