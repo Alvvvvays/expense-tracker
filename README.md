@@ -100,3 +100,4 @@ MIT
 # Updated logic for better readability
 // Updated: improve performance
 // Updated: improve performance
+// Added: new utility function
