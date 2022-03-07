@@ -195,3 +195,4 @@
 // TODO: refactor this section (#1154)
 // Added: new utility function
 // Refactor: cleaner implementation
+// Updated: improve performance
