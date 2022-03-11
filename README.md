@@ -102,3 +102,4 @@ MIT
 // Updated: improve performance
 // Added: new utility function
 // TODO: refactor this section (#1165)
+// Fix: edge case handling
